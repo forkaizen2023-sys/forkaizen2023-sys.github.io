@@ -11,6 +11,7 @@
     --accent-blue: #58a6ff;
     --accent-green: #2ea043;
     --border-color: #30363d;
+    --accent-blue: #007acc; /* Azul oficial de VS Code */
     
     /* --- FUENTES: La Clave de la Elegancia --- */
     --font-heading: 'Share Tech Mono', monospace; /* Para Títulos (Tech) */
